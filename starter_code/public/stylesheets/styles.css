@@ -64,8 +64,10 @@ font-family: Arial, Helvetica, sans-serif
 }
 #index-image {
     display: block;
+    height: 300px;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    width: auto;
 }
 .top-index {
     margin-bottom: 20px;
@@ -78,4 +80,8 @@ font-family: Arial, Helvetica, sans-serif
     height: 400px;
     margin: auto;
     width: auto;
+}
+.index-buttons {
+    margin: auto;
+    width: 35%;
 }
